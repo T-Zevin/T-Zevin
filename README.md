@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm MultiRibo
+# 👋 Hi, I'm Tsui
 
-### Biology-trained researcher building bioinformatics, multi-omics, and AI-assisted research tools
+### 🧬 Biology-trained researcher building bioinformatics, multi-omics, and AI-assisted research tools
+
+### — MultiRibo Team —
 
 <p>
   <img src="https://img.shields.io/badge/Bioinformatics-0f766e?style=for-the-badge" alt="Bioinformatics">
@@ -11,48 +13,18 @@
   <img src="https://img.shields.io/badge/AI%20Research%20Tools-111827?style=for-the-badge" alt="AI research tools">
 </p>
 
-<p>
-  <a href="https://github.com/T-Zevin/BioSci-Radar">BioSci-Radar</a> ·
-  <a href="https://github.com/T-Zevin/cfDNA_Analysis-and-tools-Notes">cfDNA Notes</a> ·
-  <a href="https://github.com/T-Zevin/Python-ML">Python ML</a>
-</p>
-
 </div>
 
-## About Me
+## 📌 About Me
 
 I work around bioinformatics, multi-omics analysis, and practical research workflows.
 
-- Biology is my background; computational analysis is my daily toolkit.
-- I focus on multi-omics, single-cell/spatial omics, cancer bioinformatics, and translational research questions.
-- I like building small local-first tools that make literature tracking, data analysis, and scientific writing more efficient.
-- I care about tools that are actually useful in daily research, not only impressive in demos.
+- 🧪 Biology is my background; 💻 computational analysis is my daily toolkit.
+- 🔬 I focus on multi-omics, single-cell/spatial omics, cancer bioinformatics, and translational research questions.
+- 🛠️ I like building small local-first tools that make literature tracking, data analysis, and scientific writing more efficient.
+- 🎯 I care about tools that are actually useful in daily research, not only impressive in demos.
 
-## Featured Project
-
-### BioSci-Radar
-
-**BioSci-Radar** is a local-first literature workspace for bioinformatics, multi-omics, and transferable ML/DL methods.
-
-It helps me:
-
-- search papers from PubMed, bioRxiv, medRxiv, and arXiv;
-- run focused keyword searches for topics like `LUAD`, `spatial transcriptomics`, and `graph neural network`;
-- review keyword, topic, omics, disease, and ML tag frequencies;
-- browse papers in a bilingual local web interface;
-- export literature summaries as Markdown.
-
-Repository: [T-Zevin/BioSci-Radar](https://github.com/T-Zevin/BioSci-Radar)
-
-## Current Interests
-
-- Cancer multi-omics analysis
-- Single-cell and spatial transcriptomics
-- Bioinformatics workflow automation
-- Literature discovery and knowledge management
-- Transferable machine learning and deep learning methods for biology
-
-## Toolbox
+## 🧰 Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -63,16 +35,6 @@ Repository: [T-Zevin/BioSci-Radar](https://github.com/T-Zevin/BioSci-Radar)
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown">
 </p>
 
-## GitHub Stats
+## 📖 中文简介
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=T-Zevin&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Zevin&layout=compact&hide_border=true&theme=default" alt="Top languages">
-</p>
-
-## 中文简介
-
-我是 MultiRibo，主要关注生物信息学、多组学分析、单细胞/空间组学，以及能迁移到科研流程里的 AI 工具。
-
-最近在做的项目是 [BioSci-Radar](https://github.com/T-Zevin/BioSci-Radar)，一个本地优先的文献雷达，用来追踪生信、多组学和机器学习/深度学习方法论文。
-
+我是 Tsui 同学，MultiRibo 团队负责人，主要关注生物信息学、多组学分析、单细胞/空间组学，以及能迁移到科研流程里的 AI 工具。
