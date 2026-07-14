@@ -20,7 +20,7 @@
 I work around bioinformatics, multi-omics analysis, and practical research workflows.
 
 - 🧪 Biology is my background; 💻 computational analysis is my daily toolkit.
-- 🔬 I focus on multi-omics, single-cell/spatial omics, cancer bioinformatics, and translational research questions.
+- 🔬 I focus on multi-omics, single-cell/spatial omics, cancer bioinformatics, cfDNA liquid biopsy, and translational research questions.
 - 🛠️ I like building small local-first tools that make literature tracking, data analysis, and scientific writing more efficient.
 - 🎯 I care about tools that are actually useful in daily research, not only impressive in demos.
 
@@ -57,4 +57,4 @@ I work around bioinformatics, multi-omics analysis, and practical research workf
 
 ## 📖 中文简介
 
-我是 Tsui 同学，MultiRibo 团队负责人，主要关注生物信息学、多组学分析、单细胞/空间组学，以及能迁移到科研流程里的 AI 工具。
+MultiRibo 团队负责人，我们团队主要关注生物信息学数据挖掘、单细胞/空间组学等多组学分析、多模态临床大模型构建、cfDNA无创活检研发，以及能迁移到科研流程里的 AI 工具。
