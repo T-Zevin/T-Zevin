@@ -17,12 +17,12 @@
 
 ## 📌 About Me
 
-I work around bioinformatics, multi-omics analysis, and practical research workflows.
+Focused on bioinformatics, multi-omics analysis, and research workflow automation.
 
-- 🧪 Biology is my background; 💻 computational analysis is my daily toolkit.
-- 🔬 I focus on multi-omics, single-cell/spatial omics, cancer bioinformatics, cfDNA liquid biopsy, and translational research questions.
-- 🛠️ I like building small local-first tools that make literature tracking, data analysis, and scientific writing more efficient.
-- 🎯 I care about tools that are actually useful in daily research, not only impressive in demos.
+- 🧪 Biology-trained, with computational analysis as the core daily toolkit.
+- 🔬 Main directions: multi-omics, cancer bioinformatics, cfDNA liquid biopsy, and translational research.
+- 🛠️ Local-first tools for literature tracking, data analysis, and scientific writing.
+- 🎯 Practical research tools over demo-only prototypes.
 
 ## 🧰 Toolbox
 
