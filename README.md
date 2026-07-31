@@ -54,7 +54,3 @@ Focused on bioinformatics, multi-omics analysis, and research workflow automatio
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T-Zevin/T-Zevin/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/T-Zevin/T-Zevin/output/github-contribution-grid-snake.svg">
 </picture>
-
-## 📖 中文简介
-
-MultiRibo 团队负责人，我们团队主要关注生物信息学数据挖掘、单细胞/空间组学等多组学分析、多模态临床大模型构建、cfDNA无创活检研发，以及能迁移到科研流程里的 AI 工具。
